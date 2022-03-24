@@ -1,0 +1,19 @@
+collection: "https://raw.githubusercontent.com/VNG-Realisatie/Haal-Centraal-HR-bevragen/develop/specificatie/openapi.yaml"
+schemas:
+  MaatschappelijkeActiviteit:
+  - properties:
+    activiteiten:
+    - omschrijving: "Een activiteit"
+      sbiActiviteiten:
+      - sbiCode: "string"
+        inidicatieHoofdactiviteit: true
+      indicatieExporteert: true
+      indicatieImporteert: true
+    kvknummer: "123456789"
+    eersteHandelsnaam: "Demodam"
+    handelsnamen: ['string']
+
+
+
+
+

@@ -1,0 +1,26 @@
+publiccodeYmlVersion: "0.1"
+
+name: "Handels Register (HR) API"
+url: "https://github.com/VNG-Realisatie/Haal-Centraal-HR-bevragen"
+releaseDate: "t.b.d."
+
+softwareType: standalone/backend
+
+platforms:
+  - web
+  
+categories:
+  - collaboration
+  - it-development
+  
+developmentStatus: development
+
+description:
+  nl:
+    shortDescription: "API voor het zoeken en raadplegen van gegevens uit het Handelsregister."
+    documentation: 'https://redocly.github.io/redoc/?url=https://raw.githubusercontent.com/VNG-Realisatie/Haal-Centraal-HR-bevragen/develop/specificatie/openapi.yaml'
+    apiDocumentation: 'https://raw.githubusercontent.com/VNG-Realisatie/Haal-Centraal-HR-bevragen/develop/specificatie/openapi.yaml'
+  en:
+    shortDescription: "API for searching and consulting data from the Trade Register."
+    documentation: 'https://redocly.github.io/redoc/?url=https://raw.githubusercontent.com/VNG-Realisatie/Haal-Centraal-HR-bevragen/develop/specificatie/openapi.yaml'
+    apiDocumentation: 'https://raw.githubusercontent.com/VNG-Realisatie/Haal-Centraal-HR-bevragen/develop/specificatie/openapi.yaml'

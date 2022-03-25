@@ -12,6 +12,96 @@ schemas:
     kvknummer: "123456789"
     eersteHandelsnaam: "Demodam"
     handelsnamen: ['string']
+    bezoekadres: 
+      nummeraanduidingidentificatie: "123456780"
+      adresseerbaarobjectidentificatie: "123456789"
+      straatnaam: "Laan van de landinrichtingscommissie Demodam"
+      huisnumme": 1
+      huisletter: "A"
+      huisnummertoevoeging: "bis"
+      postcode: "1000DD"
+      woonplaats: "Demodam"
+      straatHuisnummer: "9"
+      postcodeWoonplaats: "Demodam"
+      regio: "Demodam"
+      land: "The Netherlands"
+    datumAanvang: 
+      dag: 3
+      datum: "1989-05-03"
+      jaar: 1989
+      maand: 5
+    datumEinde:
+      dag: 3
+      datum: "1989-05-03"
+      jaar: 1989
+      maand: 5
+    postadres: 
+      nummeraanduidingidentificatie: "012345678"
+      adresseerbaarobjectidentificatie: "012345679"
+      straatnaam: "Laan van de landinrichtingscommissie Demodam"
+      huisnummer: 1
+      huisletter: "A"
+      huisnummertoevoeging: "bis"
+      postcode: "1000DD"
+      woonplaats: "Demodam"
+      straatHuisnummer: "9"
+      postcodeWoonplaats: "Demodam"
+      regio: "Demodam"
+      land: "The Netherlands"
+      postbusnummer: 1021
+      adresregel1: "Demodam 1000"
+      adresregel2: "1000DD Demodam"
+    domein: "demodam.org"
+    telefoonnummer: "06123456789"
+    faxnummer: "123456"
+    hoofdvestigingNummer: "1000"
+    vestigingsNummers: ["1000"]
+  
+  Vestiging:
+  - properties:
+      vestigingsnummer: "123457"
+      eersteHandelsnaam: "Demodam"
+      handelsNamen: ["Demodam"]
+      bezoekadres: 
+        nummeraanduidingidentificatie: "012345678"
+        adresseerbaarobjectidentificatie: "012345679"
+        straatnaam: "Laan van de landinrichtingscommissie Demodam"
+        huisnummer: 1
+        huisletter: "A"
+        huisnummertoevoeging: "bis"
+        postcode: "1000DD"
+        woonplaats: "Demodam"
+        straatHuisnummer: "9"
+        postcodeWoonplaats: "Demodam"
+        regio: "Demodam"
+        land: "The Netherlands"
+        postbusnummer: 1021
+        adresregel1: "Demodam 1000"
+        adresregel2: "1000DD Demodam"
+      postadres: 
+        nummeraanduidingidentificatie: "012345678"
+        adresseerbaarobjectidentificatie: "012345679"
+        straatnaam: "Laan van de landinrichtingscommissie Demodam"
+        huisnummer: 1
+        huisletter: "A"
+        huisnummertoevoeging: "bis"
+        postcode: "1000DD"
+        woonplaats: "Demodam"
+        straatHuisnummer: "9"
+        postcodeWoonplaats: "Demodam"
+        regio: "Demodam"
+        land: "The Netherlands"
+        postbusnummer: 1021
+        adresregel1: "Demodam 1000"
+        adresregel2: "1000DD Demodam"
+      emailAdres: "info@demodam.org"
+      domein: "demodam.org"
+      telefoonnummer: "06123456789"
+      faxnummer: "6789"
+      kvknummer: "123456789"
+
+
+
 
 
 
